@@ -30,4 +30,4 @@ if movie_rating > 0:
 else:
     average = 0
 
-print(f"A média de avaliação do ${movie} é: {average:.2f}")
+print(f"A média de avaliação do {movie} é: {average:.2f}")
